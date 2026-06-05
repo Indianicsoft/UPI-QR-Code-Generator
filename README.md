@@ -30,7 +30,7 @@ Add a screenshot or GIF here.
 ## Installation
 1. Clone the repository.
 2. Open `index.html` in your browser.
-3. Or include the JS files in your project.
+3. Use the JS file in your project.
 
 ## Contributing
 Pull requests and issues are welcome.
