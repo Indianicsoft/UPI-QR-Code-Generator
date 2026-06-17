@@ -9,7 +9,7 @@ Complete Payment Gateway is Closed-Source!
 - Vanilla JS only
 - Easy to embed in any website
 - Mobile-friendly and responsive
-- No framework required
+- No framework required 
 
 ## Demo
 Add a screenshot or GIF here.
