@@ -6,7 +6,7 @@ Complete Payment Gateway is Closed-Source!
 
 ## Features
 - Generate UPI payment QR codes instantly
-- Vanilla JS only
+- Vanilla JS only 
 - Easy to embed in any website
 - Mobile-friendly and responsive
 - No framework required 
